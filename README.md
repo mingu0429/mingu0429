@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Welcome%20To%20Mingu's%20GitHub&fontAlignY=39&textBg=false&fontSize=50&animation=twinkling" />
+
+
+## My Skills
+<img src="https://img.shields.io/badge/java-F89820?style=for-the-badge"/>  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 <!--
 **mingu0429/mingu0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
